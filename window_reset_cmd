@@ -1,0 +1,12 @@
+Microsoft Windows [Version 10.0.19042.1023]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\WINDOWS\system32>reagentc /disable
+REAGENTC.EXE: Operation Successful.
+
+
+C:\WINDOWS\system32>reagentc /enable
+REAGENTC.EXE: Operation Successful.
+
+
+C:\WINDOWS\system32>exit
